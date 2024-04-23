@@ -7,13 +7,13 @@ This code has been submitted to a certain course in 2024. It is a part of group 
 
 # Code Organization
 
-  ├── data 
-  ├── checkpoint
-  ├── predict 
-  ├── saved_model 
-  ├── BART.ipynb
-  ├── T5.ipynb
-  ├── README.md
+    ├── data 
+    ├── checkpoint
+    ├── predict 
+    ├── saved_model 
+    ├── BART.ipynb
+    ├── T5.ipynb
+    ├── README.md
 
 
 
